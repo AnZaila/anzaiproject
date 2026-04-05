@@ -1,1 +1,3 @@
-I'm 2.txt. 
+I'm 2.txt.
+New Message.
+Ok,Nothing to rewrite.
