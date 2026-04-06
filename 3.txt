@@ -1,2 +1,3 @@
 I'm 3.txt.
 New Msg1.
+New Msg2.
